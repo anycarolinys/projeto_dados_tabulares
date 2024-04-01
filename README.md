@@ -6,7 +6,7 @@ As cidades selecionadas foram:
 - Manila - Filipinas  
 - São Franciso - Estados Unidos
 - Taipei - Taiwan  
-- Cidade do Panamá - Panama  
+- Cidade do Panamá - Panamá  
 
 ### Contextualização
 
@@ -20,7 +20,7 @@ Sendo assim, o objetivo do presente estudo é avaliar o aumento da **temperatura
 
 
 ### Objetivo
-- A partir da API Open-Meteo² obter os dados de temperatura³ e qualidade do ar⁴
+- A partir da API Open-Meteo² obter dados de temperatura³ e qualidade do ar⁴
 - Realizar uma análise exploratória no conjunto de dados
 - Analisar a evolução da temperatura
 - Anaisar a evolução da concentração de gases e partículas poluentes
