@@ -18,7 +18,7 @@ Um estudo realizado pelo Carbon Brief¹ afirma o seguinte:
 
 Sendo assim, o objetivo do presente estudo é avaliar o aumento da **temperatura terrestre** dada a suposta diminuição da emissão de enxofre.
 
-![Fonte: Pexels](https://images.pexels.com/photos/1182383/pexels-photo-1182383.jpeg)
+![City Photography during Nightfall](https://images.pexels.com/photos/1182383/pexels-photo-1182383.jpeg)
 Fonte: Pexels (2018)
 
 ### Objetivo
