@@ -4,7 +4,7 @@ Foram selecionadas cinco cidades com alto fluxo marítimo para analisar medidas 
 As cidades selecionadas foram:
 - Shenzhen - China  
 - Manila - Filipinas  
-- São Franciso - Estados Unidos
+- São Francisco - Estados Unidos
 - Taipei - Taiwan  
 - Cidade do Panamá - Panamá  
 
