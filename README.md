@@ -28,6 +28,14 @@ Fonte: Pexels (2018)
 - Anaisar a evolução da concentração de gases e partículas poluentes
 - Criar um modelo de predição para temperatura baseado nas varíaveis relativas a qualidade do ar
 
+### Descrição do repositório
+1. **daily_weather_ETL.ipynb**: script de ETL para geração dos dados
+3. **daily_climate.csv**: dados climáticos gerados com o ETL
+2. **daily_air_quality.csv**: dados de qualidade do ar gerados com o ETL
+4. **weather.csv**: dados obtidos a partir da junção de 2 e 3
+5. **daily_weather_EDA.ipynb**: análise exploratória dos dados em 4
+6. **countries.csv**: dados das cidades e países a serem analisados
+
 #### Referências
 ¹ https://www.carbonbrief.org/analysis-how-low-sulphur-shipping-rules-are-affecting-global-warming/  
 ² https://open-meteo.com/  
